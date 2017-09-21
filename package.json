@@ -1,0 +1,104 @@
+{
+  "name": "generate-hekyll",
+  "description": "Scaffold out a handlebars theme using Hekyll. ",
+  "version": "0.1.0",
+  "homepage": "https://github.com/generate/generate-hekyll",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "generate/generate-hekyll",
+  "bugs": {
+    "url": "https://github.com/generate/generate-hekyll/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "generator.js",
+    "index.js",
+    "templates"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "data-store": "^1.0.0",
+    "delete": "^1.1.0",
+    "generate-defaults": "^0.6.6",
+    "generate-package": "^0.7.3",
+    "gh-clone": "^1.0.0",
+    "hekyll": "^2.0.0",
+    "is-valid-app": "^0.3.0",
+    "write-json": "^2.0.0"
+  },
+  "devDependencies": {
+    "enquirer": "^1.0.2",
+    "generate": "^0.14.0",
+    "longest": "^2.0.1",
+    "mocha": "^3.5.3",
+    "npm-install-global": "^1.0.0",
+    "pad-right": "^0.2.2",
+    "prompt-confirm": "^1.2.0",
+    "prompt-radio": "^1.2.1"
+  },
+  "keywords": [
+    "assemble",
+    "blog",
+    "boilerplate",
+    "build",
+    "cli",
+    "cli-app",
+    "command-line",
+    "convert",
+    "converter",
+    "create",
+    "dev",
+    "development",
+    "framework",
+    "front",
+    "frontend",
+    "generate",
+    "generate-generator",
+    "generate-plugin",
+    "generategenerator",
+    "generateplugin",
+    "generator",
+    "gh-pages",
+    "github-pages",
+    "gulp",
+    "handlebars",
+    "hekyll",
+    "init",
+    "initialize",
+    "jekyll",
+    "liquid",
+    "migrate",
+    "migrator",
+    "new",
+    "pages",
+    "plugin",
+    "project",
+    "projects",
+    "scaffold",
+    "scaffolder",
+    "scaffolding",
+    "site",
+    "template",
+    "templates",
+    "theme",
+    "webapp",
+    "website",
+    "yeoman",
+    "yo"
+  ],
+  "lintDeps": {
+    "devDependencies": {
+      "files": {
+        "patterns": [
+          "help.js",
+          "prompts.js"
+        ]
+      }
+    }
+  }
+}

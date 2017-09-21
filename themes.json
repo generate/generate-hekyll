@@ -1,0 +1,24 @@
+{
+  "choices": [
+    "none",
+    "pages-themes/architect",
+    "pages-themes/cayman",
+    "pages-themes/dinky",
+    "pages-themes/hacker",
+    "pages-themes/leap-day",
+    "pages-themes/merlot",
+    "pages-themes/midnight",
+    "pages-themes/minimal",
+    "pages-themes/modernist",
+    "pages-themes/slate",
+    "pages-themes/tactile",
+    "pages-themes/time-machine",
+    "pietromenna/jekyll-cayman-theme",
+    "poole/hyde",
+    "poole/lanyon",
+    "poole/poole",
+    "other"
+  ],
+  "default": "pages-themes/cayman",
+  "color": "red"
+}
