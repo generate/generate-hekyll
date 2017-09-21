@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/generate/generate">
-<img height="150" width="150" src="https://raw.githubusercontent.com/generate/generate/master/docs/logo.png">
+<img height="150" width="150" src="https://user-images.githubusercontent.com/383994/30712283-81710060-9ed9-11e7-8a8c-3237f98fbaaa.png">
 </a>
 </p>
 
