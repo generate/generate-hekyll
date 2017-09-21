@@ -27,7 +27,7 @@
     "generate-defaults": "^0.6.6",
     "generate-package": "^0.7.3",
     "gh-clone": "^1.0.0",
-    "hekyll": "^2.0.0",
+    "hekyll": "^3.0.2",
     "is-valid-app": "^0.3.0",
     "write-json": "^2.0.0"
   },
@@ -35,11 +35,8 @@
     "enquirer": "^1.0.2",
     "generate": "^0.14.0",
     "gulp-format-md": "^1.0.0",
-    "log-utils": "^0.2.1",
-    "longest": "^2.0.1",
     "mocha": "^3.5.3",
     "npm-install-global": "^1.0.0",
-    "pad-right": "^0.2.2",
     "prompt-confirm": "^1.2.0",
     "prompt-radio": "^1.2.1"
   },
@@ -97,7 +94,6 @@
     "devDependencies": {
       "files": {
         "patterns": [
-          "help.js",
           "prompts.js"
         ]
       }
