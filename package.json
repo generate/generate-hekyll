@@ -12,6 +12,7 @@
   "files": [
     "generator.js",
     "index.js",
+    "prompts.js",
     "templates"
   ],
   "main": "index.js",
